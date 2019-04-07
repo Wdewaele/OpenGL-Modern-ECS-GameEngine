@@ -1,5 +1,5 @@
 # OpenGL-Modern-ECS-GameEngine
-Entity Component System Game Engine with OpenGL made in 4 weeks with Guillaume Noailles and William Dewaele
+Entity Component System Game Engine with OpenGL made in 4 weeks with Guillaume Noailles and Max Brun
 
 ![](https://github.com/maxbrundev/OpenGL-Modern-ECS-GameEngine/blob/master/Collisions.gif)
 
